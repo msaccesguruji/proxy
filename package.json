@@ -1,0 +1,8 @@
+{
+  "name": "api-proxy-service",
+  "version": "1.0.0",
+  "description": "Simple API proxy service for Google Apps Script",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
